@@ -1,4 +1,4 @@
-[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2F51a44be6bb99fd3a8dabb339409fe683-1200-80.jpeg&f=1&nofb=1&ipt=fd38a6ee55920e45f6855dacb6464a2b8828b3ddb7d7e7f84873586d2166f4e0&ipo=images](https://cdn.mos.cms.futurecdn.net/51a44be6bb99fd3a8dabb339409fe683-1200-80.jpeg)
+![image](https://github.com/biffsocko/onloadcheck/assets/5352741/63bb8021-73cd-4de9-9fcc-4c2cf9ed7f4d)
 
 # onloadcheck
 this uses pssh to check to verify onload is working  correctly on  a list of hosts.  
