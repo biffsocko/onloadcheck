@@ -1,4 +1,4 @@
-<center>![image](https://github.com/biffsocko/onloadcheck/assets/5352741/63bb8021-73cd-4de9-9fcc-4c2cf9ed7f4d)</center>
+![image](https://github.com/biffsocko/onloadcheck/assets/5352741/63bb8021-73cd-4de9-9fcc-4c2cf9ed7f4d)
 
 # onloadcheck
 this uses pssh to check to verify onload is working  correctly on  a list of hosts.  
