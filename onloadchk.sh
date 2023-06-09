@@ -6,7 +6,6 @@
 #  add your own webhook here
 ###########################################################
 LIST="/onload_list"
-MAILLIST="thomas.murphy@stonex.com,jason.alexander@stonex.com"
 WEBHOOK="https://yourdomain.webhook.office.com/webhookb2/bigstringhere"
 
 #    curl -H 'Content-Type: application/json' -d '{"text": "Failed to write database to WORM Drive for compliance - ERROR 1"}' ${WEBHOOK}
